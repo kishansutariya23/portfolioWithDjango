@@ -1,0 +1,18 @@
+marquee{
+    /* width: 50%; */
+    color: red;
+}
+
+footer{
+    -webkit-transition: .5s ease-in-out;
+    position: absolute;
+    color: rgb(171, 229, 243);
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    min-width: 967px;
+    font-size: 20px;
+    height: 60px;
+    padding-left: 20PX;
+    background-color: black;
+}
