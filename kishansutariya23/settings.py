@@ -74,7 +74,7 @@ TEMPLATES = [
 ]
 
 # WSGI_APPLICATION = 'kishansutariya23.wsgi.application'
-WSGI_APPLICATION = 'vercel_app.wsgi.app'
+WSGI_APPLICATION = 'kishansutariya23.wsgi.app'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
